@@ -1,7 +1,6 @@
 # Quote/0 发信 demo
 
 > 本项目用于演示使用 Quote/0 的[文本 API](https://dot.mindreset.tech/docs/server/text_api)发信。
-> （代码都是 AI 写的，比较糙 😆）
 
 ## 启动方法
 
